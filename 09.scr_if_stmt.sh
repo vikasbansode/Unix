@@ -1,10 +1,10 @@
 #!/bin/bash
 echo
-######################################################
-# TASK	: Basik If statement
-# Student : Vikas Bansode
-# Date : 10/20/2019
-#######################################################
+#################################
+# TASK	: Basik If statement	#
+# Student : Vikas Bansode	#
+# Date : 10/20/2019		#
+#################################
 
 echo "Please Enter value for a"
 read a
