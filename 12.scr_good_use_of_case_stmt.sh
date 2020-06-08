@@ -1,12 +1,12 @@
 #!/bin/bash
 echo
-#######################################
-#									  #	
-# TASK : Basic case esac			  # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
-#######################################
+#################################
+#				#	
+# TASK : Basic case esac	# 
+# Student : Vikas Bansode.	#	
+# Date : 10/20/2019		#	 
+#				#
+#################################
 
 # A good use for a case statement is the evaluation of command line arguments as follows -
 
