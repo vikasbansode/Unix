@@ -1,12 +1,12 @@
 #!/bin/bash
 echo
-#######################################
-#									  #	
-# TASK : Basic If else elif statement # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
-#######################################
+#################################################
+#						#	
+# TASK : Basic If else elif statement 		# 
+# Student : Vikas Bansode.			#	
+# Date : 10/20/2019				#	 
+#						#
+################################################
 
 echo "Please Enter value for a"
 read a
