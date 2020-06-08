@@ -8,10 +8,11 @@ echo
 #									  #
 #######################################
 
-echo "Please Enter fruit name either KIWI,APPLE,BANANA : "
-read FRUIT
+echo "Please enter fruit name either Kiwi, Apple, Banana : "
+read Fruit
+Fruit=${Fruit,,} # Change Any case to lowercase
 echo
-case "$FRUIT" in
+case "$Fruit" in
 	"apple") echo "Apple pie is quit tasty."
 	;;
 	"banana") echo "I like banana nut bread."
