@@ -1,12 +1,12 @@
 #!/bin/bash
 echo
-#######################################
-#									  #	
-# TASK : Basic continue statement	  # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
-#######################################
+#########################################
+#					#	
+# TASK : Basic continue statement	# 
+# Student : Vikas Bansode.		#	
+# Date : 10/20/2019			#	 
+#					#
+#########################################
 
 NUMS="1 2 3 4 5 6 7"
 
