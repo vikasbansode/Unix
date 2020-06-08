@@ -1,11 +1,11 @@
 #!/bin/bash
 echo
 #######################################
-#									  #	
-# TASK : Basic infinite loop		  # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
+#				      #	
+# TASK : Basic infinite loop	      # 
+# Student : Vikas Bansode.	      #	
+# Date : 10/20/2019		      #	 
+#				      #
 #######################################
 
 a=10
