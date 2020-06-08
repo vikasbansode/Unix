@@ -1,11 +1,11 @@
 #!/bin/bash
 echo
 #######################################
-#									  #	
-# TASK : Basic case esac			  # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
+#				      #	
+# TASK : Basic case esac	      # 
+# Student : Vikas Bansode.	      #	
+# Date : 10/20/2019		      #	 
+#				      #
 #######################################
 
 # If use type any case it will convert into lowercase
