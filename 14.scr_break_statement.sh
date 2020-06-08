@@ -1,12 +1,12 @@
 #!/bin/bash
 echo
-#######################################
-#									  #	
-# TASK : Basic break statement		  # 
-# Student : Vikas Bansode.			  #	
-# Date : 10/20/2019					  #	 
-#									  #
-#######################################
+#################################
+#				#	
+# TASK : Basic break statement	# 
+# Student : Vikas Bansode.	#	
+# Date : 10/20/2019		#	 
+#				#
+#################################
 
 a=0
 while [ $a -lt 10 ]
