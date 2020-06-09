@@ -7,6 +7,7 @@
 #Date : 10/20/2019				   									#	
 #####################################################################
 
+# Create file with sql statements and name file with .sql extention and
 # USE BELOW STATEMENT ON UNIX COMMAND LINE
 
 sqlplus username/password@connection_identifier @filename.sql > logfile.log
