@@ -1,0 +1,12 @@
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (1, 'Tom', 'Male', 4000, '1');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (2, 'Pam', 'Female', 3000, '3');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (3, 'John', 'Male', 3500, '1');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (4, 'Sam', 'Male', 4500, '2');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (5, 'Todd', 'Male', 2800, '2');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId")VALUES (6, 'Ben', 'Male', 7000, '2');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (7, 'Sara', 'Female', 4800, '3');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (8, 'Valarie', 'Female', 550, '1');
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (9, 'James', 'Male', 6500, NULL);
+INSERT INTO Employee ("ID", "Name", "Gender", "Salary", "DepartmentId") VALUES (10, 'Russell', 'Male', 8800, NULL);
+commit;
+exit;	
