@@ -13,7 +13,7 @@ echo hello, welcome vikas bansode
 
 export -f hello
 
-# Example 2
+# Example 2 set environment variables
 a=5
 export a
 printenv a
@@ -22,5 +22,9 @@ printenv a
 # set vim as default editor
 export EDITOR=/usr/bin/vim
 export | grep EDITOR
+
+# Example 4 remove environment variable
+unset variable_name
+unset a
 
 
